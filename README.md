@@ -7,4 +7,4 @@ Ok, firstly, how should I put it.......    I working on many block-coding things
 I am also dipping my toes into Python using GuiZero.
 
 ## 🌱 I’m currently learning ...
-I am currently tring to learn Python, how to write better, C and C#
+I am currently tring to learn Python, how to write better, C and C#. (C sharp, why is it called c SHARP?!)
