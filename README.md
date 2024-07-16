@@ -8,3 +8,7 @@ I am also dipping my toes into Python using GuiZero.
 
 ## 🌱 I’m currently learning ...
 I am currently tring to learn Python, how to write better, C and C#. (C sharp, why is it called c SHARP?!)
+
+## 🚀 My Progress
+See my progress below!:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimmeer-github&theme=github_dark&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats" /></p>
