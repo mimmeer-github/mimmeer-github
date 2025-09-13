@@ -7,8 +7,6 @@ But at the time **2FA** was *very* annoying - Chrome never remembered my passwor
 Ok, firstly, how should I put it....... I am even *far* into Web Development now.
 I am into Python, MicroPython, but most of my programming power is in C# - but I still don't get why it's pronounced "C-Sharp".
 
-UPDATE: Now I've started with C#!
-
 ## 🌱 I’m currently learning ...
 I am currently tring to learn:
 - WinRT + C++
