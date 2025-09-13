@@ -4,8 +4,8 @@ Welcome to mimmeer-github, yes... yes... I know I have a billion accounts. *(wel
 But at the time **2FA** was *very* annoying - Chrome never remembered my passwords or 2FA stuff.
 
 ## 🔭 I’m currently working on ...
-Ok, firstly, how should I put it....... I am even *far* into Web Development now (as of October 2024).
-I am into Python, MicroPython, but mostly into C# - but I still don't get why it's pronounced "C-Sharp".
+Ok, firstly, how should I put it....... I am even *far* into Web Development now.
+I am into Python, MicroPython, but most of my programming power is in C# - but I still don't get why it's pronounced "C-Sharp".
 
 UPDATE: Now I've started with C#!
 
