@@ -1,3 +1,6 @@
+> [!WARNING]
+> This account had been left in the dust, please jump to [@mimmeer-me](https://github.com/mimmeer-me) instead for the best of Mimmeer.
+
 # Hello! 👋
 Welcome to mimmeer-github, yes... yes... I know I have a billion accounts. *(well, not anymore thanks to me deleting them all)*
 
